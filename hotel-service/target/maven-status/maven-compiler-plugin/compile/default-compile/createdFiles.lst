@@ -1,0 +1,10 @@
+com\hotel\controller\HotelController.class
+com\hotel\service\HotelService.class
+com\hotel\controller\FacilitiesController.class
+com\hotel\exception\ResourceNotFoundException.class
+com\hotel\entity\Facilities.class
+com\hotel\HotelServiceApplication.class
+com\hotel\repo\HotelRepo.class
+com\hotel\repo\FacilitiesRepo.class
+com\hotel\service\FacilitiesService.class
+com\hotel\entity\Hotel.class
